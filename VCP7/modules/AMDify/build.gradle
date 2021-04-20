@@ -1,0 +1,6 @@
+dependencies {
+	compileOnly 'org.osgi:org.osgi.core:6.0.0'
+	compileOnly 'com.liferay.portal:com.liferay.portal.kernel:9.8.1'
+	compileOnly 'javax.portlet:portlet-api:3.0.1'
+	compileOnly 'javax.servlet:javax.servlet-api:4.0.1'
+}
